@@ -1,0 +1,14 @@
+{
+  "name": "David-Tic-Tac-Toe-Agent",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "generate-games": "node game-generator.js",
+    "train-model": "node train-a-model.js",
+    "generate-and-train": "node game-generator.js && node train-a-model.js"
+  },
+  "author": "David Weinberger",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "1.2.11"
+  }
+}

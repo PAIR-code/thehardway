@@ -1,0 +1,10 @@
+{
+  "name": "tic-tac-two",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "clang-format": "^1.4.0",
+    "typescript": "3.5.3"
+  }
+}
