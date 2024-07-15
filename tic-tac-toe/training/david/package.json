@@ -9,6 +9,6 @@
   },
   "author": "David Weinberger",
   "dependencies": {
-    "@tensorflow/tfjs-node": "1.2.11"
+    "@tensorflow/tfjs-node": "4.20.0"
   }
 }
